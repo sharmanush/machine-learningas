@@ -1,0 +1,2 @@
+The prediction here is to be done about  bank employees if they will stay/leave the bank based
+on the data like  their age, gender etc.
